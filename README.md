@@ -12,6 +12,6 @@ I've been workinh as a designer for six year, and just started taking code serio
 --- 
 
 ### Connect with me on 
-[LinkedIn](https://linkedin.com/in/fayoseifedayo/)  [X](https://www.x.com/dayodsgnr)   [Instagram](https://instagram.com/dayodsgnr/)
+[LinkedIn](https://linkedin.com/in/fayoseifedayo/) ◆ [X](https://www.x.com/dayodsgnr) ◆ [Instagram](https://instagram.com/dayodsgnr/)
 
 Feel free to reach out if you want to talk about design or the business of design
