@@ -1,6 +1,6 @@
 # Hello World! My name is Dayo👋
-
-I've been workinh as a designer for six year, and just started taking code seriously in 2026.
+<br>
+I've been working as a designer for six year, and just started taking code seriously in 2026.
 ---
 - 🔭 **I’m currently working** on becoming a frontend engineer
 - 🌱 **I’m currently learning** frontent development on [Scrimba](https://scrimba.com/?via=u42ca63e "Go to Scrimba")
