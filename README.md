@@ -32,6 +32,7 @@ I've been working as a designer for six year, and just started taking code serio
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Webflow](https://img.shields.io/badge/webflow-%23146EF5.svg?style=for-the-badge&logo=webflow&logoColor=white)
 
 ---
 
@@ -42,6 +43,6 @@ I've been working as a designer for six year, and just started taking code serio
 ---
 
 ### Connect with me on 
-[LinkedIn](https://linkedin.com/in/fayoseifedayo/) ◆ [X](https://www.x.com/dayodsgnr) ◆ [Instagram](https://instagram.com/dayodsgnr/) ◆ [My favourite Scrimba course](https://scrimba.com/frontend-path-c0j?via[https://scrimba.com/?via=u42ca63e])
+[LinkedIn](https://linkedin.com/in/fayoseifedayo/) ◆ [X](https://www.x.com/dayodsgnr) ◆ [Instagram](https://instagram.com/dayodsgnr/) ◆ [My favourite Scrimba course](https://scrimba.com/frontend-path-c0j?via=[https://scrimba.com/?via=u42ca63e])
 
 Feel free to reach out if you want to talk about design or the business of design
